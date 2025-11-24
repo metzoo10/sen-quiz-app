@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Quel était le nom du puissant empire qui dominait la région du Sénégal avant la colonisation française ?",
+    "choices": [
+      "L'Empire du Ghana",
+      "L'Empire du Mali",
+      "L'Empire du Djolof",
+      "L'Empire du Tekrour"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quel célèbre résistant sénégalais a combattu la colonisation française au 19ème siècle dans la région du Cayor ?",
+    "choices": [
+      "Samori Touré",
+      "Lat Dior",
+      "El Hadj Oumar Tall",
+      "Aline Sitoé Diatta"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "En quelle année le Sénégal a-t-il accédé à l'indépendance ?",
+    "choices": [
+      "1958",
+      "1964",
+      "1962",
+      "1960"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qui fut le premier Président de la République du Sénégal ?",
+    "choices": [
+      "Léopold Sédar Senghor",
+      "Abdou Diouf",
+      "Mamadou Dia",
+      "Abdoulaye Wade"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "L'île de Gorée est tristement célèbre pour avoir joué un rôle majeur dans quel commerce historique ?",
+    "choices": [
+      "Commerce de l'or",
+      "Commerce des esclaves",
+      "Commerce de l'ivoire",
+      "Commerce des épices"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel était le nom de la fédération dont le Sénégal était membre avec le Mali, et qui a duré seulement quelques mois en 1960 ?",
+    "choices": [
+      "Fédération d'Afrique de l'Ouest",
+      "Fédération du Mali",
+      "Fédération Sénégalo-Soudanaise",
+      "Fédération du Soudan Français"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle ville nouvelle, en développement, vise à devenir un pôle économique et à désengorger Dakar ?",
+    "choices": [
+      "Touba",
+      "Thiès",
+      "Saint-Louis",
+      "Diamniadio"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qui est l'actuel Président de la République du Sénégal (élu en 2024) ?",
+    "choices": [
+      "Ousmane Sonko",
+      "Bassirou Diomaye Faye",
+      "Macky Sall",
+      "Abdoulaye Wade"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel est le nom de l'assemblée législative nationale du Sénégal ?",
+    "choices": [
+      "La Primature",
+      "Le Sénat",
+      "L'Assemblée nationale",
+      "Le Conseil constitutionnel"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quel parti politique, fondé par Léopold Sédar Senghor, a dominé la vie politique sénégalaise jusqu'en 2000 ?",
+    "choices": [
+      "l'Union Progressiste Sénégalaise (UPS) / Parti Socialiste (PS)",
+      "le Parti Démocratique Sénégalais (PDS)",
+      "Alliance pour la République (APR)",
+      "Patriotes du Sénégal pour le Travail, l'Éthique et la Fraternité (PASTEF)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quel célèbre homme d'État et homme de culture sénégalais a été le premier Africain à siéger à l'Académie française ?",
+    "choices": [
+      "Blaise Diagne",
+      "Aimé Césaire",
+      "Cheikh Anta Diop",
+      "Léopold Sédar Senghor"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quel principe politique et culturel, prôné par le premier président, associe la valorisation de l'identité noire et de l'universel ?",
+    "choices": [
+      "Le Socialisme africain",
+      "La Négritude",
+      "Le Panafricanisme",
+      "L'Ubuntu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle organisation internationale a son siège à Dakar ?",
+    "choices": [
+      "La CEDEAO",
+      "L'Union Africaine",
+      "La Banque Centrale des États de l'Afrique de l'Ouest (BCEAO)",
+      "L'UNESCO"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle est la capitale du Sénégal ?",
+    "choices": [
+      "Saint-Louis",
+      "Thiès",
+      "Ziguinchor",
+      "Dakar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quel fleuve majestueux donne son nom au pays et traverse le territoire d'est en ouest ?",
+    "choices": [
+      "Le fleuve Sénégal",
+      "Le fleuve Gambie",
+      "Le fleuve Casamance",
+      "Le fleuve Congo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quel pays enclavé est entièrement entouré par le territoire sénégalais, à part une courte façade atlantique ?",
+    "choices": [
+      "La Guinée-Bissau",
+      "La Gambie",
+      "Le Mali",
+      "Le Burkina Faso"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle région du Sénégal, connue pour ses bolongs (bras de mer) et ses traditions, est souvent considérée comme le berceau de la culture sénégalaise ?",
+    "choices": [
+      "La Casamance",
+      "Le Sine-Saloum",
+      "Le Fouta-Toro",
+      "Le Cayor"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Comment s'appelle la presqu'île volcanique qui abrite le centre-ville de Dakar et fut le premier point de peuplement de la ville ?",
+    "choices": [
+      "La presqu'île du Cap-Vert",
+      "La presqu'île de Sangomar",
+      "L'île de Ngor",
+      "L'île de Gorée"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle est la plus grande région productrice d'arachide, autrefois pilier de l'économie sénégalaise ?",
+    "choices": [
+      "Le Bassin du fleuve Sénégal",
+      "La région de Thiès",
+      "La Casamance",
+      "Le Bassin arachidier"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Le Sénégal partage ses frontières avec cinq pays. Lequel de ces pays n'en fait PAS partie ?",
+    "choices": [
+      "La Mauritanie",
+      "Le Mali",
+      "La Côte d'Ivoire",
+      "La Guinée"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quelle est la langue officielle du Sénégal ?",
+    "choices": [
+      "Le wolof",
+      "Le français",
+      "L'anglais",
+      "Le puular"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle est la monnaie officielle du Sénégal ?",
+    "choices": [
+      "Le Franc sénégalais",
+      "Le Franc CFA",
+      "L'Eco",
+      "Le Dalasi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel pourcentage de la population sénégalaise est de religion musulmane (environ) ?",
+    "choices": [
+      "Environ 70%",
+      "Environ 80%",
+      "Environ 50%",
+      "Environ 95%"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quel animal mythique est le symbole du Sénégal ?",
+    "choices": [
+      "Le lion",
+      "Le serpent",
+      "L'éléphant",
+      "Le crocodile"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quel plat national, à base de poisson et de riz, est un incontournable de la cuisine sénégalaise ?",
+    "choices": [
+      "Le Mafé",
+      "Le Thiéboudienne",
+      "Le Yassa",
+      "Le Soupou Kandia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel arbre emblématique, au tronc massif, est souvent surnommé \"l'arbre à palabres\" ?",
+    "choices": [
+      "Le fromager",
+      "Le baobab",
+      "Le manguier",
+      "Le palmier"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel est le nom du tissu traditionnel coloré et très populaire au Sénégal et en Afrique de l'Ouest ?",
+    "choices": [
+      "Le gezner",
+      "Le bogolan",
+      "Le wax",
+      "Le batik"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quel sport est de loin le plus populaire au Sénégal ?",
+    "choices": [
+      "Le football",
+      "Le basket-ball",
+      "La lutte",
+      "Le rugby"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quel est le surnom de l'équipe nationale de football du Sénégal ?",
+    "choices": [
+      "Les Éléphants",
+      "Les Étalons",
+      "Les Lions de la Téranga",
+      "Les Aigles"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "En quelle année l'équipe nationale de football du Sénégal a-t-elle atteint les quarts de finale de la Coupe du Monde pour la première fois ?",
+    "choices": [
+      "1998",
+      "2002",
+      "2018",
+      "2022"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel joueur de football sénégalais a remporté le Ballon d'Or africain en 2022 ?",
+    "choices": [
+      "Édouard Mendy",
+      "Sadio Mané",
+      "Kalidou Koulibaly",
+      "Pape Matar Sarr"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel lutteur sénégalais est une véritable légende vivante du sport national, la Lutte avec frappe ?",
+    "choices": [
+      "Balla Gaye 2",
+      "Eumeu Sène",
+      "Mohamed Ndao \"Tyson\"",
+      "Yakhya Diop Yékini"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "En 2021, l'équipe nationale de basket du Sénégal a remporté pour la première fois de son histoire un titre continental. Lequel ?",
+    "choices": [
+      "Le Championnat du Monde",
+      "Le Championnat d'Afrique féminin (Afrobasket)",
+      "La Coupe d'Europe",
+      "Les Jeux Olympiques"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel joueur de football sénégalais a marqué le pénalty vainqueur lors de la CAN 2021 ?",
+    "choices": [
+      "Abdou Diallo",
+      "Bamba Dieng",
+      "Bouna Sarr",
+      "Sadio Mané"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quel est le nom du plus grand stade du Sénégal, situé à Diamniadio ?",
+    "choices": [
+      "Stade Léopold Sédar Senghor",
+      "Stade Abdoulaye Wade",
+      "Stade Demba Diop",
+      "Stade Caroline Faye"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel chanteur sénégalais a participé à la bande originale du film \"Black Panther\" ?",
+    "choices": [
+      "Viviane Chidid",
+      "Youssou Ndour",
+      "Ismaël Lô",
+      "Baaba Maal"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quel genre musical, popularisé par Youssou Ndour, est typiquement sénégalais ?",
+    "choices": [
+      "Le Coupé-Décalé",
+      "Le Mbalax",
+      "L'Afrobeats",
+      "Le Reggae"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel célèbre musicien sénégalais est considéré comme le père du style \"Mbalax\" ?",
+    "choices": [
+      "Baaba Maal",
+      "Youssou Ndour",
+      "Orchestra Baobab",
+      "Thione Seck"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel artiste plasticien sénégalais de renommée internationale est connu pour ses installations utilisant des tissus et des objets de récupération ?",
+    "choices": [
+      "Ousmane Sow",
+      "El Hadji Sy",
+      "Soly Cissé",
+      "Moustapha Dimé"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel grand festival de arts contemporains, ayant lieu à Dakar, est l'un des plus importants d'Afrique ?",
+    "choices": [
+      "Le FESPACO",
+      "La Biennale de Dakar (Dak'Art)",
+      "Le Festival de Jazz à Saint-Louis",
+      "Le Dakar Fashion Week"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel cinéaste sénégalais, auteur de \"La Petite Vendeuse de Soleil\", est considéré comme l'un des pères du cinéma africain ?",
+    "choices": [
+      "Ousmane Sembène",
+      "Djibril Diop Mambéty",
+      "Alain Gomis",
+      "Moussa Sène Absa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel écrivain sénégalais est l'auteur de l'œuvre fondatrice \"Les Bouts de Bois de Dieu\" sur la grève des cheminots Dakar-Niger ?",
+    "choices": [
+      "Cheikh Hamidou Kane",
+      "Birago Diop",
+      "Boubacar Boris Diop",
+      "Ousmane Sembène"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qui est la romancière sénégalaise la plus célèbre, auteure de \"Un Chant écarlate\" et \"Si Longue Lettre\" ?",
+    "choices": [
+      "Aminata Sow Fall",
+      "Mariama Bâ",
+      "Ken Bugul",
+      "Fatou Diome"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel philosophe et historien sénégalais est l'auteur de l'œuvre monumentale \"Nations nègres et culture\" ?",
+    "choices": [
+      "Léopold Sédar Senghor",
+      "Abdoulaye Wade",
+      "Cheikh Anta Diop",
+      "Souleymane Bachir Diagne"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quel célèbre scientifique et anthropologue sénégalais a t-on donné son nom à la plus grande université de Dakar ?",
+    "choices": [
+      "Amadou Makhtar Mbow",
+      "Cheikh Anta Diop",
+      "Souleymane Bachir Diagne",
+      "Pathé Diagne"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel est le principal port de commerce du Sénégal et de toute l'Afrique de l'Ouest ?",
+    "choices": [
+      "Le Port de Ziguinchor",
+      "Le Port autonome de Dakar",
+      "Le Port de Saint-Louis",
+      "Le Port de Kaolack"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quel secteur économique est la première source de devises du Sénégal aujourd'hui ?",
+    "choices": [
+      "L'exportation de poisson",
+      "Le tourisme",
+      "Les transferts de fonds des travailleurs expatriés",
+      "L'exploitation minière"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quel grand projet d'aménagement, inauguré en 2022, vise à désengorger Dakar et améliorer la mobilité ?",
+    "choices": [
+      "L'Autoroute à péage",
+      "Le Train Express Régional (TER)",
+      "Le Pont de Rosso",
+      "Le BRT (Bus Rapid Transit)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle importante industrie minière exploite les gisements de Thiès ?",
+    "choices": [
+      "L'or",
+      "Le zircon",
+      "Le phosphate",
+      "Le fer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quel phénomène naturel, causé par les fortes pluies, menace régulièrement les habitants de certains quartiers de Dakar ?",
+    "choices": [
+      "Les inondations",
+      "Les tornades",
+      "Les glissements de terrain",
+      "Les sécheresses"
+    ],
+    "answer": 0
+  }
+]

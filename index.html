@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+    <script src="https://kit.fontawesome.com/1946a24281.js" crossorigin="anonymous"></script>
+    <title>Sen Quiz App - Accueil</title>
+</head>
+
+<body class="page-home" data-theme="light">
+    
+    <!-- FAB Réseaux Sociaux -->
+    <div class="fab-container">
+        <div class="fab-main"><i class="fa-solid fa-globe"></i></div>
+        <div class="fab-buttons">
+            <a href="https://github.com/metzoo10" target="_blank" title="Github" class="social-icon social-github"><i class="fa-brands fa-github"></i></a>
+            <a href="https://twitter.com/metzoooo__" target="_blank" title="Twitter" class="social-icon social-twitter"><i class="fa-brands fa-twitter"></i></a>
+            <a href="https://linkedin.com/in/mouhamedba126/" target="_blank" title="LinkedIn" class="social-icon social-linkedin"><i class="fa-brands fa-linkedin"></i></a>
+        </div>
+    </div>
+
+    <main class="container center">
+        <header class="topbar">
+            <div class="theme-switch-wrapper">
+                <label class="theme-switch">
+                    <input type="checkbox" id="themeToggle">
+                    <span class="slider round"></span>
+                </label>
+                <span id="themeLabel">Light Mode</span>
+            </div>
+        </header>
+        <a href="index.html">
+            <img src="assets/logo.png" alt="Logo Sen Quiz App" class="logo-home" style="width: 120px;margin-bottom: 20px;">
+        </a>
+        <h1 class="title">Sen Quiz App</h1>
+        <h3 class="">Testez votre culture générale sur le Sénégal !</h3>
+        <p class="lead">Un quiz de 50 questions de culture générale sur le Sénégal chargé depuis un fichier <code>questions.json</code>.<br> Pas de base de données nécessaire.</p>
+
+        <div class="card home-card">
+            <p>Durée approximative : <strong>3 à 10 min</strong>.</p>
+            <div class="home-actions">
+                <a href="quiz.html" class="btn primary">Commencer le quiz</a>
+                <a href="resultat.html" class="btn">Voir dernier résultat</a>
+            </div>
+        </div>
+
+        <footer class="muted" style="margin-top: 30px;">Made with &#x2764; by Mouhamed Ba - Novembre 2025</footer>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
