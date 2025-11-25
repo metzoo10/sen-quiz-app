@@ -1,6 +1,6 @@
 <h1 align="center">Sen Quiz App</h1>
 <p align="center">
-  <img src="assets/1.png" alt="Logo du site - Sen Quiz App" width="300">
+  <img src="assets/images/1.png" alt="Logo du site - Sen Quiz App" width="300">
 </p>
 <h2 align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
@@ -56,7 +56,7 @@ Le projet est entièrement développé en HTML, CSS et JavaScript, et comprend u
 │── app.js              → Fichier script du projet
 │── assets/             → Images, sons, icônes
 │   ├── sounds/
-│   └── img/
+│   └── images/
 └── README.md
 
 ```
