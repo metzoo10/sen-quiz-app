@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">
 </h2>
 <p>Bienvenue dans <b>Sen Quiz App</b>, une application web interactive permettant de tester ses connaissances sur le Sénégal.
-Le projet est entièrement développé en HTML, CSS et JavaScript, et comprend un système de score, un mode sombre, des confettis d’animation, ainsi qu’une interface responsive.</p>
+Le projet est entièrement développé en HTML, CSS et JavaScript, et comprend un système de score, un mode sombre, des effets sonores pour indiquer le timer, bonne/mauvaise réponse, ainsi qu’une interface responsive.<br>Les questions sont stockés puis chargés à partir d'un fichier JSON donc, pas besoin de base de données.</p>
 <h2>🚀 Fonctionnalités principales</h2>
 <h3>🎯 1. Quiz interactif</h3>
 <ul>
@@ -23,18 +23,13 @@ Le projet est entièrement développé en HTML, CSS et JavaScript, et comprend u
   <li>Page de résultats dédiée</li>
   <li>Barre de progression</li>
 </ul>
-<h3>🎉 3. Animation de confettis</h3>
-<ul>
-  <li>Confettis en Javascript</li>
-  <li>Version CSS activée uniquement lorsqu'on obtient une note parfaite</li>
-</ul>
-<h3>🌗 4. Mode Light / Dark</h3>
+<h3>🌗 3. Mode Light / Dark</h3>
 <ul>
   <li>Switcher toggle interactif</li>
   <li>Texte dynamique : light mode et dark mode lorsque le thème clair ou sombre est actif</li>
   <li>Thème sauvegardé via localStorage</li>
 </ul>
-<h3>📱 5. Responsive design</h3>
+<h3>📱 4. Responsive design</h3>
 <p>Compatible sur :</p>
 <ul>
   <li>ordinateurs</li>
@@ -48,7 +43,6 @@ Le projet est entièrement développé en HTML, CSS et JavaScript, et comprend u
   <li>Javascript</li>
   <li>JSON pour stocker et charger les questions</li>
   <li>localStorage pour sauvegarder le score et le thème</li>
-  <li>Confettis : JS et animations CSS</li>
   <li>Responsive avec flexbox et grid</li>
 </ul>
 
