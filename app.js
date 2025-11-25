@@ -258,9 +258,9 @@ if (document.body.id === "result-page") {
   let endSound;
 
   if (percent < 50) {
-    endSound = new Audio("sounds/end.mp3");
+    endSound = new Audio("assets/sounds/end.mp3");
   } else if (percent >= 50) {
-    endSound = new Audio("sounds/gg.mp3");
+    endSound = new Audio("assets/sounds/gg.mp3");
   }
 
   setTimeout(() => {
@@ -293,10 +293,10 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // SONS
-const soundTick = new Audio("sounds/ticking.mp3");
-const soundCorrect = new Audio("sounds/correct.mp3");
-const soundWrong = new Audio("sounds/incorrect.mp3");
-const soundEnd = new Audio("sounds/end.mp3");
+const soundTick = new Audio("assets/sounds/ticking.mp3");
+const soundCorrect = new Audio("assets/sounds/correct.mp3");
+const soundWrong = new Audio("assets/sounds/incorrect.mp3");
+const soundEnd = new Audio("assets/sounds/end.mp3");
 
 // Sélection des éléments
 const fabMain = document.querySelector(".fab-main");
