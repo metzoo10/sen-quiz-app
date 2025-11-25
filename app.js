@@ -23,6 +23,11 @@ let summary = [];
 // CHARGEMENT QUESTIONS
 // ===============================
 if (document.body.id === "quiz-page") {
+  localStorage.removeItem("quiz_score");
+  localStorage.removeItem("quiz_total");
+  localStorage.removeItem("quizSummary");
+  localStorage.removeItem("quiz_termine");
+
   fetch("questions.json")
     .then((res) => res.json())
     .then((data) => {
