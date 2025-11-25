@@ -23,6 +23,7 @@ let summary = [];
 // CHARGEMENT QUESTIONS
 // ===============================
 if (document.body.id === "quiz-page") {
+  // Réinitialiser le score et le résumé
   localStorage.removeItem("quiz_score");
   localStorage.removeItem("quiz_total");
   localStorage.removeItem("quizSummary");
