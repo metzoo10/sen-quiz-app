@@ -204,39 +204,6 @@ function showResults() {
   window.location.href = `resultat.html?score=${score}&total=${questions.length}`;
 }
 
-if (document.body.id === "result-page") {
-  function showConfetti() {
-    const score = parseInt(localStorage.getItem("quiz_score") || "0");
-    const total = parseInt(localStorage.getItem("quiz_total") || "0");
-
-    if (score !== total) return;
-
-    if (!document.getElementById("confetti-wrapper")) {
-      const wrapper = document.createElement("div");
-      wrapper.id = "confetti-wrapper";
-      wrapper.className = "confetti-wrapper";
-
-      for (let i = 1; i <= 20; i++) {
-        const confetti = document.createElement("div");
-        confetti.className = "confetti";
-        confetti.style.left = `${Math.random() * 100}%`;
-        confetti.style.backgroundColor = `hsl(${
-          Math.random() * 360
-        }, 70%, 60%)`;
-        confetti.style.animationDelay = `${Math.random() * 2}s`;
-        wrapper.appendChild(confetti);
-      }
-
-      document.body.appendChild(wrapper);
-
-      // Supprimer après 5 secondes
-      setTimeout(() => wrapper.remove(), 5000);
-    }
-  }
-  // À la fin du quiz, si score parfait
-  showConfetti();
-}
-
 // ===================================================================
 // SECTION RESULT PAGE
 // ===================================================================
@@ -270,7 +237,6 @@ if (document.body.id === "result-page") {
                         <p>${item.question}</p>
                         <p><strong>Ta réponse :</strong> ${item.userAnswer}</p>
                         <p><strong>Bonne réponse :</strong> ${item.correctAnswer}</p>
-                        <hr>
                     </li>
                 `
                   )
@@ -287,9 +253,7 @@ if (document.body.id === "result-page") {
 
   if (percent < 50) {
     endSound = new Audio("sounds/end.mp3");
-  } else if (percent < 80) {
-    endSound = new Audio("sounds/cheer.mp3");
-  } else {
+  } else if (percent >= 50) {
     endSound = new Audio("sounds/gg.mp3");
   }
 

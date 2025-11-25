@@ -251,11 +251,9 @@ h1, h2, h3, p, a {
     border: 1px solid rgba(15,23,42,0.04);
     margin-bottom: 10px;
 }
-.summary-q{
-    font-weight: 600;
-}
-.summary-ans{
-    margin-top: 8px;
+#summary{
+    font-weight: 500;
+    margin-bottom: 20px;
 }
 /* Container du switch */
 .theme-switch-wrapper {
@@ -342,41 +340,6 @@ h1, h2, h3, p, a {
 
 .slider.round:before {
     border-radius: 50%;
-}
-
-.confetti-wrapper {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-  overflow: hidden;
-  z-index: 1000;
-}
-
-.confetti {
-  position: absolute;
-  width: 10px;
-  height: 10px;
-  background-color: red;
-  opacity: 0.8;
-  top: -10px;
-  animation: fall 3s linear infinite;
-}
-
-.confetti.c1 { left: 10%; background: #ff0a54; animation-delay: 0s; }
-.confetti.c2 { left: 20%; background: #ff477e; animation-delay: 0.2s; }
-.confetti.c3 { left: 30%; background: #ff7096; animation-delay: 0.4s; }
-.confetti.c4 { left: 40%; background: #ff85a1; animation-delay: 0.6s; }
-.confetti.c5 { left: 50%; background: #fbb1b1; animation-delay: 0.8s; }
-.confetti.c6 { left: 60%; background: #00bf63; animation-delay: 1s; }
-.confetti.c7 { left: 70%; background: #0f5b45; animation-delay: 1.2s; }
-.confetti.c8 { left: 80%; background: #177c69; animation-delay: 1.4s; }
-
-@keyframes fall {
-  0% { transform: translateY(0) rotate(0deg); }
-  100% { transform: translateY(100vh) rotate(360deg); }
 }
 
 
