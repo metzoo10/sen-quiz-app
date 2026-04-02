@@ -219,12 +219,12 @@ h1, h2, h3, p, a {
     border-color: var(--accent-600);
 }
 .choice.correct{
-    background: #e6fffb;
-    border-color: #75e3c7;
+    background: #80d3aa;
+    border-color: #06ad5a;
 }
 .choice.wrong{
-    background: #ffecec;
-    border-color: #ffb3b3;
+    background: #e76868;
+    border-color: #ee1515;
 }
 [data-theme="dark"] .choice.correct{
     color: #000 !important;
