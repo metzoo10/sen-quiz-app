@@ -32,7 +32,7 @@ if (document.body.id === "quiz-page") {
   fetch("questions.json")
     .then((res) => res.json())
     .then((data) => {
-      questions = data;
+      questions = shuffleQuestions(data);
       qTotal.textContent = questions.length;
       loadQuestion();
     })
@@ -90,6 +90,17 @@ function loadQuestion() {
     nextBtn.classList.remove("fade-out");
     nextBtn.classList.add("fade-in");
   }, 200); // 200ms pour fade-out
+}
+
+// ===============================
+// MELANGER LES QUESTIONS
+// ===============================
+function shuffleQuestions(questions) {
+  for (let i = questions.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [questions[i], questions[j]] = [questions[j], questions[i]];
+  }
+  return questions;
 }
 
 // ===============================
